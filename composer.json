@@ -1,0 +1,17 @@
+{
+  "name": "newtown/magento-roles-improvement",
+  "license": "",
+  "type": "magento-module",
+  "description": "Module for Magento to improve Admin Roles in order to allow go deeper on native ABM's of the platform",
+  "homepage": "https://www.newtown.at",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Ingo Fabbri",
+      "email": "if@newtown.at",
+      "role": "Maintainer"
+    }
+  ]
+}
