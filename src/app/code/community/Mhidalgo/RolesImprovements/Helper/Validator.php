@@ -31,7 +31,7 @@ class Mhidalgo_RolesImprovements_Helper_Validator
     // Catalog Related Validations
     public function canCatalogProduct($action)
     {
-        return $this->getAdminSession()->isAllowed('catalog/product/' . $action);
+        return $this->getAdminSession()->isAllowed('catalog/products/' . $action);
     }
 
     public function canCatalogAttribute($action)
