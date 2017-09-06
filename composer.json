@@ -1,10 +1,10 @@
 {
-  "name": "newtown/magento-roles-improvement",
+  "name": "newtown/magento1-roles-improvement",
   "license": "",
   "type": "magento-module",
   "description": "Module for Magento to improve Admin Roles in order to allow go deeper on native ABM's of the platform",
-  "homepage": "https://www.newtown.at",
-  "require": {
+  "homepage": "https://github.com/infabo/RolesImprovement",
+  "suggest": {
     "magento-hackathon/magento-composer-installer": "*"
   },
   "authors": [
